@@ -1,2 +1,2 @@
-### 👋 Hi there, I'm Nguyễn Trung Nguyên
+## 👋 Hi there, I'm Nguyễn Trung Nguyên
 
