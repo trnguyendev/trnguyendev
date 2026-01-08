@@ -10,3 +10,9 @@
 ### 🗄️ Database
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
+### 🖥️ Programming & Networking
+<img src="https://skillicons.dev/icons?i=cs,c,cpp" />
+
+### 🛠️ Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+
