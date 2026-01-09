@@ -14,5 +14,5 @@
 <img src="https://skillicons.dev/icons?i=c,cpp,cs" />
 
 ### 🛠️ Tools & Platforms
-<img src="https://skillicons.dev/icons?i=vscode,vscode,git,github,postman" />
+<img src="https://skillicons.dev/icons?i=vscode,vscode,git,github,gitlab,postman" />
 
