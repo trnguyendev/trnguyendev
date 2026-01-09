@@ -2,7 +2,7 @@
 
 
 ### 🌐 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,vue,react,ant,nextjs" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,vue,react,nextjs" />
 
 ### ⚙️ Backend
 <img src="https://skillicons.dev/icons?i=cs,dotnet" />
@@ -14,5 +14,5 @@
 <img src="https://skillicons.dev/icons?i=c,cpp,cs" />
 
 ### 🛠️ Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=vscode,vscode,git,github,postman" />
 
