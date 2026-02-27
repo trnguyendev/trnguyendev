@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Nguyễn Trung Nguyên
 
-### 🛠 Tech Stack
+#🛠 Tech Stack
 
 ## 🌐 Frontend
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,vue,react," />
