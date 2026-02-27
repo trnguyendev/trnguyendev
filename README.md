@@ -12,4 +12,4 @@
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 ## 🛠️ Tools & Platforms
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,,postman" />
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,postman" />
